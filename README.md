@@ -1,2 +1,5 @@
-# Introduction
-My introduction
+- 👋 Hi, I’m @MartinMezhlumyan
+- 👀 I’m interested in Security aspects of Software development and also in Front-End development.
+- 🌱 In case of Back-End languages I’m interested in Java and Python.
+- 🌱 In case of Front-End library which is used for app development I’m interested in React.js.
+- 📫 How to reach me martinmezhlumyan@gmail.com
